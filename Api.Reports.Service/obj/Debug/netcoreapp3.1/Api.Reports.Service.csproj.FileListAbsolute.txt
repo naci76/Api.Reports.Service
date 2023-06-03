@@ -68,3 +68,8 @@ C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\obj\
 C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\obj\Debug\netcoreapp3.1\Api.Reports.Service.genruntimeconfig.cache
 C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\bin\Debug\netcoreapp3.1\Api.Reports.Models.dll
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\bin\Debug\netcoreapp3.1\Api.Reports.Repositories.dll
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\bin\Debug\netcoreapp3.1\Api.Reports.Models.pdb
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\bin\Debug\netcoreapp3.1\Api.Reports.Repositories.pdb
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service\bin\Debug\netcoreapp3.1\RestSharp.dll

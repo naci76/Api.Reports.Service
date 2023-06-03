@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jO9GiNmoKLyrLVTwcZ9g1du6aHgv5vVVXSmXNn28nbwa8SUp3Gidyx/RlfZa6HrhwQPzpFk40n9A/IKrMonvKA==",
+  "dgSpecHash": "XVqeCc6EwuZfvFxym3+TEwGi8EPzFbmNDczgXy4q6NgmaLHSQ3PlUZe7uWtFwusko0+kduUa6MV+Lr2ztpsgcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dev100\\source\\repos\\naci76\\Api.Reports.Service\\Api.Reports.Repositories\\Api.Reports.Repositories.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\Dev100\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Dev100\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Dev100\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\Dev100\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\Dev100\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Dev100\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Dev100\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",

@@ -7,3 +7,4 @@ C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Models\obj\D
 C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Models\obj\Debug\netcoreapp3.1\Api.Reports.Models.csproj.CoreCompileInputs.cache
 C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Models\obj\Debug\netcoreapp3.1\Api.Reports.Models.dll
 C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Models\obj\Debug\netcoreapp3.1\Api.Reports.Models.pdb
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Models\obj\Debug\netcoreapp3.1\Api.Reports.Models.csproj.AssemblyReference.cache
