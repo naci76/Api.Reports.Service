@@ -28,7 +28,6 @@ namespace Api.Reports.Service.Controllers
             service = _service;
             logger = _logger;
         }
-        [HttpPost]
         [Route("report-create/{lat}/{lon}")]
         public async Task<IActionResult> Create(string lat,string lon)
         {
@@ -43,7 +42,7 @@ namespace Api.Reports.Service.Controllers
             Lat=lat,
             Lon=lon
             };
-            reportRepository.Add(mapper.Map<Report>(model));
+           reportRepository.Add(mapper.Map<Report>(model));
             await factory.SaveChange();
             return Ok("Success");
         }
@@ -53,7 +52,7 @@ namespace Api.Reports.Service.Controllers
             logger.LogError("Raporlar listelendi");
             return Ok(mapper.Map<List<ReportModel>>(await reportRepository.GetAll()));
         }
-        [Route("report-get")]
+        [Route("report-get/{id}")]
         public async Task<IActionResult> Get(int id)
         {
             logger.LogError("Rapor detayı çekildi.");

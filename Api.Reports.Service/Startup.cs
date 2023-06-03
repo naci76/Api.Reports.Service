@@ -36,6 +36,8 @@ namespace Api.Reports.Service
             services.AddDbContext<ReportDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped<IReportRepository,ReportRepository>();
+            services.AddScoped<IFactory, Factory>();
+            services.AddScoped<IService, Api.Reports.Repositories.Repository.Service>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

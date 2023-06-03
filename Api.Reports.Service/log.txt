@@ -1,3 +1,29 @@
  Log(3.06.2023 16:50:53) : Application started. Press Ctrl+C to shut down.
  Log(3.06.2023 16:50:53) : Hosting environment: Development
  Log(3.06.2023 16:50:53) : Content root path: C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service
+ Log(3.06.2023 18:55:50) : Application started. Press Ctrl+C to shut down.
+ Log(3.06.2023 18:55:50) : Hosting environment: Development
+ Log(3.06.2023 18:55:50) : Content root path: C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service
+ Log(3.06.2023 18:57:59) : Application started. Press Ctrl+C to shut down.
+ Log(3.06.2023 18:57:59) : Hosting environment: Development
+ Log(3.06.2023 18:57:59) : Content root path: C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service
+ Log(3.06.2023 18:58:05) : An unhandled exception has occurred while executing the request.
+ Log(3.06.2023 18:59:48) : Application started. Press Ctrl+C to shut down.
+ Log(3.06.2023 18:59:48) : Hosting environment: Development
+ Log(3.06.2023 18:59:48) : Content root path: C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service
+ Log(3.06.2023 18:59:57) : Rapor oluşturuldu.
+ Log(3.06.2023 19:01:01) : Rapor oluşturuldu.
+ Log(3.06.2023 19:01:05) : Rapor oluşturuldu.
+ Log(3.06.2023 19:01:19) : Rapor oluşturuldu.
+ Log(3.06.2023 19:02:28) : Raporlar listelendi
+ Log(3.06.2023 19:03:20) : Application started. Press Ctrl+C to shut down.
+ Log(3.06.2023 19:03:20) : Hosting environment: Development
+ Log(3.06.2023 19:03:20) : Content root path: C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service
+ Log(3.06.2023 19:03:26) : Raporlar listelendi
+ Log(3.06.2023 19:03:30) : Raporlar listelendi
+ Log(3.06.2023 19:04:03) : Application started. Press Ctrl+C to shut down.
+ Log(3.06.2023 19:04:03) : Hosting environment: Development
+ Log(3.06.2023 19:04:03) : Content root path: C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Service
+ Log(3.06.2023 19:04:06) : Rapor detayı çekildi.
+ Log(3.06.2023 19:04:19) : Rapor detayı çekildi.
+ Log(3.06.2023 19:04:24) : Raporlar listelendi
