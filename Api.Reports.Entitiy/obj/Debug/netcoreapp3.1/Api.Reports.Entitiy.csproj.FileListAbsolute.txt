@@ -1,0 +1,13 @@
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\bin\Debug\netcoreapp3.1\Api.Reports.Entitiy.deps.json
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\bin\Debug\netcoreapp3.1\Api.Reports.Entitiy.runtimeconfig.json
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\bin\Debug\netcoreapp3.1\Api.Reports.Entitiy.runtimeconfig.dev.json
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\bin\Debug\netcoreapp3.1\Api.Reports.Entitiy.dll
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\bin\Debug\netcoreapp3.1\Api.Reports.Entitiy.pdb
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.csproj.AssemblyReference.cache
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.AssemblyInfoInputs.cache
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.AssemblyInfo.cs
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.csproj.CoreCompileInputs.cache
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.dll
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.pdb
+C:\Users\Dev100\source\repos\naci76\Api.Reports.Service\Api.Reports.Entitiy\obj\Debug\netcoreapp3.1\Api.Reports.Entitiy.genruntimeconfig.cache
