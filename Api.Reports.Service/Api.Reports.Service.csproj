@@ -17,6 +17,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Api.Reports.Entitiy\Api.Reports.Entitiy.csproj" />
+    <ProjectReference Include="..\Api.Reports.Models\Api.Reports.Models.csproj" />
+    <ProjectReference Include="..\Api.Reports.Repositories\Api.Reports.Repositories.csproj" />
   </ItemGroup>
 
 

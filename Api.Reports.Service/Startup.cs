@@ -1,4 +1,6 @@
 using Api.Reports.Entitiy;
+using Api.Reports.Repositories.IRepository;
+using Api.Reports.Repositories.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,6 +31,8 @@ namespace Api.Reports.Service
         {
             services.AddControllers();
             services.AddDbContext<ReportDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddAutoMapper(typeof(Startup));
+            services.AddScoped<IReportRepository,ReportRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,7 +1,9 @@
 ﻿using Api.Reports.Entitiy;
 using Api.Reports.Repositories.IRepository;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,22 +18,23 @@ namespace Api.Reports.Repositories.Repository
         }
         public void Add(Report model)
         {
-            throw new NotImplementedException();
+            db.Reports.Add(model);
         }
 
         public void Delete(Report model)
         {
-            throw new NotImplementedException();
+            var entity = db.Entry(model);
+            entity.State = EntityState.Deleted;
         }
 
-        public Task<Report> Get(int id)
+        public async Task<Report> Get(int id)
         {
-            throw new NotImplementedException();
+            return await db.Reports.Where(x => x.Id == id).FirstOrDefaultAsync();
         }
 
-        public Task<List<Report>> GetAll()
+        public async Task<List<Report>> GetAll()
         {
-            throw new NotImplementedException();
+            return await db.Reports.ToListAsync();
         }
     }
 }
