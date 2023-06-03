@@ -1,6 +1,7 @@
 using Api.Reports.Entitiy;
 using Api.Reports.Repositories.IRepository;
 using Api.Reports.Repositories.Repository;
+using Api.Reports.Service.Logger;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -19,9 +20,11 @@ namespace Api.Reports.Service
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Microsoft.AspNetCore.Hosting.IHostingEnvironment hostingEnvironment { get; set; }
+        public Startup(IConfiguration configuration, Microsoft.AspNetCore.Hosting.IHostingEnvironment _hostingEnvironment)
         {
             Configuration = configuration;
+            hostingEnvironment = _hostingEnvironment;
         }
 
         public IConfiguration Configuration { get; }
@@ -36,7 +39,7 @@ namespace Api.Reports.Service
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
             {
@@ -48,7 +51,7 @@ namespace Api.Reports.Service
             app.UseRouting();
 
             app.UseAuthorization();
-
+            loggerFactory.AddProvider(new LoggerProvider(hostingEnvironment));
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
