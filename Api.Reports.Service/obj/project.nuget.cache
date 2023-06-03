@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7gHZQdXKUjIV4A0Hh2vd5Q2sjjKP+mp5EO5Qi/4LsETreEOx8adE7of7esuA548hJuvEB5e0JgHG+8ZRSv1HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev100\\source\\repos\\naci76\\Api.Reports.Service\\Api.Reports.Service\\Api.Reports.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev100\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
